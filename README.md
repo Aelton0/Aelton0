@@ -1,16 +1,15 @@
-## Hi there 👋
-I'm a Software Engineer focused on building clean, efficient, and practical solutions.  
-Here on GitHub, I share my projects and continuous learning.
+I'm a **Backend & Data-oriented Software Engineer** focused on building scalable, efficient, and reliable systems.  
+On GitHub, I share backend services, data-related projects, and experiments.
 
 ## 💼 What I'm working on
-Currently working on personal projects and exploring databases and backend technologies.  
-You can check some of my work on my portfolio and pinned repositories.
+Currently working on personal projects related to **backend development, data processing, and system design**, always aiming for clean architecture and performance.
 
 ## 🛠 Tools & Technologies
-- **Languages:** Python  
-- **Frameworks / Libraries:** Node.JS  
-- **Tools:** Git, Linux, Vercel  
-- **Databases:** MySQL
+- **Languages:** Python, JavaScript, SQL  
+- **Backend:** APIs, services, system integration  
+- **Data:** Data modeling, ETL, relational databases  
+- **Tools:** Git, Linux, Docker  
+- **Databases:** PostgreSQL, MySQL  
 
 ## 📫 How to reach me
 - 🌐 Website: https://site-beige-beta-67.vercel.app/  
@@ -18,17 +17,3 @@ You can check some of my work on my portfolio and pinned repositories.
 - 🔗 LinkedIn: https://www.linkedin.com/in/aelton-soares-de-menezes-8448b5193/?skipRedirect=true
 
 Thanks for stopping by! 🚀
-<!--
-**Aelton0/Aelton0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
