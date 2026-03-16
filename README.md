@@ -5,11 +5,11 @@ On GitHub, I share backend services, data-related projects, and experiments.
 Currently working on personal projects related to **backend development, data processing, and system design**, always aiming for clean architecture and performance.
 
 ## 🛠 Tools & Technologies
-- **Languages:** Python, JavaScript, SQL  
+- **Languages:** Python, SQL  
 - **Backend:** APIs, services, system integration  
 - **Data:** Data modeling, ETL, relational databases  
 - **Tools:** Git, Linux, Docker  
-- **Databases:** PostgreSQL, MySQL  
+- **Databases:** MySQL  
 
 ## 📫 How to reach me
 - 🌐 Website: https://site-beige-beta-67.vercel.app/  
