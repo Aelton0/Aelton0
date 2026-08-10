@@ -11,7 +11,7 @@ Currently working on personal projects related to **backend development, data pr
 - **Backend:** APIs, services, system integration  
 - **Data:** Data modeling, ETL, relational databases  
 - **Tools:** Git, Linux, Docker  
-- **Databases:** MySQL, BigQuerry
+- **Databases:** MySQL, BigQuerry, PostgreSQL
 
 
 
